@@ -1,0 +1,18 @@
+.backLink {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.backLink > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.panel-heading {
+    margin-left: 15px;
+}
